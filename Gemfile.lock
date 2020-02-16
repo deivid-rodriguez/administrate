@@ -1,7 +1,7 @@
 GIT
-  remote: https://github.com/thoughtbot/appraisal.git
-  revision: ac8341f81d7c662a6d48e52b2ca12aceffe49e9d
-  branch: master
+  remote: https://github.com/deivid-rodriguez/appraisal.git
+  revision: c8821b425d85774d8cfc3551b68105f4e812df05
+  branch: fix_warnings
   specs:
     appraisal (2.2.0)
       bundler

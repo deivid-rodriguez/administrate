@@ -14,8 +14,8 @@ gem "unicorn"
 
 group :development, :test do
   gem "appraisal",
-      github: "thoughtbot/appraisal",
-      branch: "master"
+      github: "deivid-rodriguez/appraisal",
+      branch: "fix_warnings"
   gem "awesome_print"
   gem "bundler-audit", require: false
   gem "byebug"
