@@ -48,7 +48,7 @@ jobs:
   ruby-25:
     <<: *default_job
     docker:
-      - image: circleci/ruby:2.5.0-node-browsers
+      - image: circleci/ruby:2.5.7-node-browsers
         environment:
           PGHOST: localhost
           PGUSER: administrate
